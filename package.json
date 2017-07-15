@@ -1,0 +1,19 @@
+{
+  "name": "bmi.js",
+  "version": "1.0.0",
+  "description": "Simple BMI calculator",
+  "main": "bmi.js",
+  "scripts": {
+    "bmi": "node bmi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afsoun1981/bmi.js.git"
+  },
+  "author": "Afsoun Amiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afsoun1981/bmi.js/issues"
+  },
+  "homepage": "https://github.com/afsoun1981/bmi.js#readme"
+}
